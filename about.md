@@ -6,7 +6,7 @@ permalink: /about/
 
 My primary identity is **caver**. I have been caving since I was 6 years old, and have explored new cave passage in many different cave systems in countries such as the UK, Austria, Spain, Albania and New Zealand. A particular area that I have visited many times in Austria is the Loser Plateau in the Totes Gebirge, where a [British expedition](http://expo.survex.com/) caves annually. Karst abounds on our planet and its wonders never cease to bring me joy. The brilliant unpredictability of karst is a drug of the most potent variety; it never ceases to pull me back for more. I would love to cave in China at some point (maybe when I have time to cycle or hitchhike there), but Iran, Mexico, Vietnam and Russia are also places I would love to visit on a karsty adventure. 
 
-<img src="https://cdn.imaggeo.egu.eu/media/avatars/2019/08/07/0607a3794548d4db564f440e041f1106.jpg" width="640" height="397" />   
+<img src="https://cdn.imaggeo.egu.eu/media/avatars/2019/08/07/0607a3794548d4db564f440e041f1106.jpg" width="640" />   
 
 
 The caving community has welcomed and supported me for my whole life and it is safe to say that I would not be the person I am today without it, particularly the student caving community. I'm involved in the running of [CHECC](https://checc.org/), or Council of Higher Education Caving Clubs, whose goal is to help facilitate and promote student caving (mostly at universities) in any way we can (which often means hosting massive parties at night, sleeping for 2-3 hours, then running workshops the next day).
