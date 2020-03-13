@@ -3,11 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Robert A. Watson
-<p>*aka Wob Rotson*</p>
+name: "Robert A. Watson | *aka Wob Rotson*"
 
 # Short bio or description (displayed in the header)
-description: Caves, mountains, rocks and rivers. Usually limestone, but can be persuaded to taste new earth flavours.
+description: "Caves, mountains, rocks and rivers. Usually limestone, but can be persuaded to taste new earth flavours."
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://twitter.com/WobRotson/photo
@@ -48,8 +47,7 @@ url: http://wobrotson.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/wobrotson.github.io"
-
+baseurl: 
 #
 # !! You don't need to change any of the configuration flags below !!
 #
