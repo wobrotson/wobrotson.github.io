@@ -4,12 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My primary identity is **caver**. I have been caving since I was 6 years old, and have explored new cave passage in many different cave systems in countries such as the UK, Austria, Spain, Albania and New Zealand. A particular area that I have visited many times in Austria is the Loser Plateau in the Totes Gebirge, where a [British expedition](http://expo.survex.com/) caves annually. Karst abounds on our planet and its wonders never cease to bring me joy. The brilliant unpredictability of karst is a drug of the most potent variety; it never ceases to pull me back for more. I would love to cave in China at some point (maybe when I have time to cycle or hitchhike there), but Iran, Mexico, Vietnam and Russia are also places I would love to visit on a karsty adventure. 
 
-### More Information
+<img src="https://cdn.imaggeo.egu.eu/media/avatars/2019/08/07/0607a3794548d4db564f440e041f1106.jpg" width="400" height="267" />   <a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49655071798/in/dateposted-public/" title="Tremml_413_Looking_up_ice_randkluft_edited"><img src="https://live.staticflickr.com/65535/49655071798_3c5ca5457d_w.jpg" width="400" height="300" alt="Tremml_413_Looking_up_ice_randkluft_edited"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+The caving community has welcomed and supported me for my whole life and it is safe to say that I would not be the person I am today without it, particularly the student caving community. I'm involved in the running of [CHECC](https://checc.org/), or Council of Higher Education Caving Clubs, whose goal is to help facilitate and promote student caving (mostly at universities) in any way we can (which often means hosting massive parties at night, sleeping for 2-3 hours, then running workshops the next day).
 
-[email@domain.com](mailto:email@domain.com)
+I also love climbing (rock and ice) and canyoning (caving but outside). I'm very priveleged to have visited some of the finest sporting destinations for both of these pursuits, but there is plenty still to explore and appreciate. I'm very fortunate to have a beautiful accomplice for many of these escapades, my partner [Nadia](https://www.instagram.com/_tiny_woman/). 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49656590187/in/dateposted-public/" title="canyon-abseil"><img src="https://live.staticflickr.com/65535/49656590187_ea0fd92800_z.jpg" width="640" height="397" alt="canyon-abseil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+### Research
+
+My fascination with caves and karst has directed most of my successful academic endeavours. After studying geophyiscs at Leeds, I was very fortunate to do a research Masters at University College Dublin under the supervision of [Eoghan Holohan](https://people.ucd.ie/eoghan.holohan). During this project, I worked with researchers from Potsdam, Germany, and Amman, Jordan to investigate the geohazards present at the Dead Sea shore in Jordan, where the drying up of the terminal lake has caused the formation of over 1100 sinkholes since the 1980s. My contribution consisted of manually mapping the sinkholes (a very laborious task!) and characterising their morphometric characteristics. In doing so, we highlighted the presence of several interesting, irregular depressions called *uvalas*. We explored the link between sinkholes (or *dolines* as karst heads call them) and uvalas in a [research article](https://www.solid-earth.net/10/1451/2019/) published in 2019.
+
+My experience manually collecting thousands of measurements of sinkholes from remote sensing data in Jordan made me want to try and automate the mapping and data extraction procedure. My current research, also at UCD as part of [iCRAG](https://www.icrag-centre.org/), involves trying to use deep learning to automatically delineate depressions from optical and topographic data. I am a great believer in open-source and am beginning to try and contribute more to this community (though I suspect I'm not clever enough to keep afloat in the sea of possibilities that are out there now!)
+
+I have lots of ideas about what can be done to better understand cave and karst environments, and right now I am trying to persuade people to give me funds to pursue these ideas. If you are interested in what I've been writing on this blog and think we could collaborate, please get in touch by [email](emailto:robert.watson@ucd.ie), on Twitter, or on GitHub (links in footer).
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49655811543/in/dateposted-public/" title="DSC_0251"><img src="https://live.staticflickr.com/65535/49655811543_0f685240b7_w.jpg" width="400" height="267" alt="DSC_0251"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    <a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49656628692/in/dateposted-public/" title="DSC_0205"><img src="https://live.staticflickr.com/65535/49656628692_95dd2505c2_w.jpg" width="400" height="267" alt="DSC_0205"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
