@@ -11,7 +11,7 @@ My primary identity is **caver**. I have been caving since I was 6 years old, an
 
 The caving community has welcomed and supported me for my whole life and it is safe to say that I would not be the person I am today without it, particularly the student caving community. I'm involved in the running of [CHECC](https://checc.org/), or Council of Higher Education Caving Clubs, whose goal is to help facilitate and promote student caving (mostly at universities) in any way we can (which often means hosting massive parties at night, sleeping for 2-3 hours, then running workshops the next day).
 
-I also love climbing (rock and ice) and canyoning (caving but outside). I'm very priveleged to have visited some of the finest sporting destinations for both of these pursuits, but there is plenty still to explore and appreciate. I'm very fortunate to have a beautiful accomplice for many of these escapades, my partner [Nadia](https://www.instagram.com/_tiny_woman/). 
+I also love climbing (rock and ice) and canyoning (caving but outside). I'm very priveleged to have visited some of the finest sporting destinations for both of these pursuits, but there is plenty still to explore and appreciate. I'm very fortunate to have a dependable accomplice for many of these escapades, my partner [Nadia](https://www.instagram.com/_tiny_woman/). 
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49656590187/in/dateposted-public/" title="canyon-abseil"><img src="https://live.staticflickr.com/65535/49656590187_ea0fd92800_z.jpg" width="640" height="397" alt="canyon-abseil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
