@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Who am I?
 permalink: /about/
 ---
 
@@ -13,7 +13,7 @@ The caving community has welcomed and supported me for my whole life and it is s
 
 I also love climbing (rock and ice) and canyoning (caving but outside). I'm very priveleged to have visited some of the finest sporting destinations for both of these pursuits, but there is plenty still to explore and appreciate. I'm very fortunate to have a dependable accomplice for many of these escapades, my partner [Nadia](https://www.instagram.com/_tiny_woman/). 
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49656590187/in/dateposted-public/" title="canyon-abseil"><img src="https://live.staticflickr.com/65535/49656590187_ea0fd92800_z.jpg" width="640" height="397" alt="canyon-abseil"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://live.staticflickr.com/65535/49656590187_ea0fd92800_z.jpg" width="640" height="397" alt="canyon-abseil">
 
 ### Research
 
@@ -23,6 +23,6 @@ My experience manually collecting thousands of measurements of sinkholes from re
 
 I have lots of ideas about what can be done to better understand cave and karst environments, and right now I am trying to persuade people to give me funds to pursue these ideas. If you are interested in what I've been writing on this blog and think we could collaborate, please get in touch by [email](emailto:robert.watson@ucd.ie), on Twitter, or on GitHub (links in footer).
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49655811543/in/dateposted-public/" title="DSC_0251"><img src="https://live.staticflickr.com/65535/49655811543_0f685240b7_w.jpg" width="640" height="397" alt="DSC_0251"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>    
+<img src="https://live.staticflickr.com/65535/49655811543_0f685240b7_w.jpg" width="640" height="397" alt="sinkhole_crazy_colors">    
 
 
