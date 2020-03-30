@@ -13,7 +13,7 @@ The caving community has welcomed and supported me for my whole life and it is s
 
 I also love climbing (rock and ice) and canyoning (caving but outside). I'm very priveleged to have visited some of the finest sporting destinations for both of these pursuits, but there is plenty still to explore and appreciate. I'm very fortunate to have a dependable accomplice for many of these escapades, my partner [Nadia](https://www.instagram.com/_tiny_woman/). 
 
-<img src="https://live.staticflickr.com/65535/49656590187_ea0fd92800_z.jpg" width="640" height="397" alt="canyon-abseil">
+<img src="https://ulsa.org.uk/wp-content/uploads/2019/08/P8157028-1024x635.jpg" width="640" alt="canyon-abseil">
 
 ### Research
 
