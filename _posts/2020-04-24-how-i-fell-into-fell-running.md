@@ -175,6 +175,8 @@ I crashed completely in the car on the way back to Sheffield, but a rehydration 
 <script async src="//www.instagram.com/embed.js"></script>
 <!-- end ig snippet -->
 
+<hr color='lightgray'>
+
 So, what had I learned from the experience? I don't usually bother with introspective drivel like this, but this time I think I did learn a lot from taking part. First, it's really important to have friends that stoke you up for stuff like this. Keep your friends, and value them. Second, people you know well can easily surprise you with hidden abilities (such as Lydia later discovering she had done the race with a broken toe). And finally, try new things, especially if you aren't sure what the outcome will be. Otherwise you really won't learn anything. Looking forward to the next one.
 
 <p><center><img src="../images/map_our_course_gpx.jpg" alt="our-race" width="700px" /></center>
