@@ -108,7 +108,7 @@ Although we were all running at the same event, we wouldn't all be running the s
 ![course-map](../images/A-Course.jpg){:width="700px"}
 
 ![score-map](../images/Score.jpg){:width="700px"}
-*Comparison of the Course map for the A category score (top), which BJ and Holmes were doing, and the map for all the Score courses (bottom). The course map shows the shortest distance between the checkpoints, which must be visited in number order. For the score event, the numbers represent the score awarded for visiting that checkpoint. The column of writing to the left contains descriptions of each checkpoint.*
+*Comparison of the Course map for the A category (top), which BJ and Holmes were doing, and the map for all the Score courses (bottom). The course map shows the shortest distance between the checkpoints, which must be visited in number order. For the score event, the numbers represent the score awarded for visiting that checkpoint. The column of writing to the left contains descriptions of each checkpoint.*
 
 Entrants departed depending on the amount of time it was expected they would take to complete the course. Mim and Louisa were doing the medium score, so had 10 hours. They departed around 8:40pm, after manically stuffing their bags with cadbury creme eggs and cake. Since we were running the shortest variant, we would set off nearly last, at 10:40pm. Ages to get ready, we thought. At 10:10pm, we wondered over to the mess tent to register to start. 
 
