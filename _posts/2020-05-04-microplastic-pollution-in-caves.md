@@ -1,0 +1,56 @@
+---
+layout: post
+title:  'Microplastic pollution in caves: an idea for a citizen science project'
+---
+In 1907, the first synthetic plastic, *Bakelite*, was produced. That same year, Otto Krummel published what might be the first stand-alone map of the Marianas Trench, the deepest point on Earth's surface. When plastic started to be produced on industrial scales in the 1950s, the first ascent of Everest was made. A decade later on January 23rd 1960, Jacques Picard and Don Walsh made a [historic first visit](http://www.deepseachallenge.com/the-expedition/1960-dive/) to the black depths of Marianas. In that decade, global plastic production had reached 47 million tonnes in total (8 million in the year 1960). Over 60 years have now passed since then, and the ocean waters into which Picard and Walsh descended have been unquestionably altered by the now nearly 8 billion tonnes of plastic that preside on our planet today.
+
+Pervasive pollution is an overwhelming consequence of the technological advances humanity has made since the Industrial Revolution. Nuclear waste, building materials such as concrete and aluminium, and plastics are now mixed in with sediments across the globe which in time will turn into rocks. The preservation of temporal markers in the rock record (and other planetary archives such as cave stalagmites or polar ice cores) informs our knowledge of Earth's history, and a group of geologists called the 'Anthropocene Working Group' was set up in 2009 to investigate whether we as a species might be responsible for changes so vast that they represent a new epoch in Earth Time. Reviews of the progress of their work are available [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EF000379) and [here](http://quaternary.stratigraphy.org/working-groups/anthropocene/), and I also found a useful holistic [webpage](http://www.anthropocene.info/index.php) that delves into socio-economic and earth system trends that define the Anthropocene. A research article detailing the geological cycle of plastics and their use as stratigraphic markers is available [here](https://www.eas.ualberta.ca/wolfe/eprints/Zalasiewicz_Plastics.pdf).
+
+Even to non-rock botherers, however, the degree to which plastics are present in the environment is very clear. It's also no secret among the general public that the fate of plastic products is not as they thought only 10 years or so ago. Contrary to what I was taught in school growing up, I now know plastic can't be recycled efficiently at all: indeed, only around 20% of plastics are recycled today, with the rest being incinerated (releasing greenhouse gases and polluting aerosols, nasty stuff) or floating around us in the atmosphere, biosphere and deep ocean like a smog of judgment. Our World In Data have done a full [analysis](https://ourworldindata.org/plastic-pollution) of plastic pollution with really great graphics, like the one below. 
+
+![plastic-fate](../images/plastic-fate.png)
+
+Microplastics, those plastics that are smaller than 5 mm in size, are a source of heightened concern environmentally due to their ability to be ingested by creatures of almost any size, with potentially severe health consequences for the animal in question. For example, they have been shown to negatively affect the reproductive capabilities of organisms such as [oysters](https://www.pnas.org/content/113/9/2430) after consumption. Significant bodies of research suggest that a major consequence of ingestion of microplastics may be filling or physical alteration of the digestive tract, compromising that animals ability to extract goodness from the food it eats. Additionally, microplastics are able to harbor numerous pathogens and contaminants that remain resident on their surfaces for a long time, heightening their ability to act as carriers for multiple dangerous pollutants. The feedbacks on the wider ecosystem of the remarkably rapid introduction of microplastics are unknown, but are unlikely to be positive in terms of maintaining biodiversity. A very detailed and insightful review of the state of global microplastic research can be found [here](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018JC014719). 
+
+Much remains to be understood about microplastic pollution, however, despite the phenomenal amount of study occurring in this field. For example, *some unknown quantity of microplastic research*. 
+
+![microplastics-challenges](https://agupubs.onlinelibrary.wiley.com/cms/asset/d47566c6-5bbb-4d01-89d4-a2693601d6d0/jgrc23787-fig-0009-m.jpg)
+*Challenges facing the study and reduction of microplastics in the environment, from Hale et al., 2020.*
+
+In the diagram above, point 8 particularly stood out to me. Microplastics are likely to have contaminated almost every corner of our planet. They have been found in rainwater, in our food... they're everywhere. The feats I referred to in the opening paragraph (the descent into the Marianas Trench and the first ascent of Everest), where the highest and lowest points on the planet were reached, were truly historic moments in exploration. It's easy to grasp why we know little about the highest and lowest points on our planet: they are very hostile to any form of life. And yet both are parts of our planet which are 'open' to the atmosphere, so any contaminant carried by rainwater or surface water will conceivably have left a mark there. But there is another kind of environment which is in many ways more accessible and closer to home about which much less is known: caves. 
+
+Cave passages are eroded within physical rock, whose effect is to shield them from the atmosphere on the surface. These passage networks are often formed by flowing water (and occasionally by other corrosive agents such as sulphuric acid). But, as the hydrological and topographic conditions on the surface change, the water may begin to take a new path and abandon the passage for hundreds of thousands, even millions of years. An unknowable amount of passages like these still remain unmapped, their inhabitants and natural wonders unseen. Such places are surely beyond the all-enveloping extent of microplastic pollution? Well, the short answer is we really don't know for sure. 
+
+![julian-silkroad](https://expo.survex.com/photos/2007/selected_photos/SilkRoadpretties1Andrew.jpg)
+*Julian Todd in Silk Road passage, Schwarzmooskogel Hoehle system, Loser Plateau, Austria. This cave passage is at least two million years old and probably [older](http://www.sediment.uni-goettingen.de/staff/dunkl/zips/frisch-et-al-2001.pdf).*
+
+The cave environment has not yet been studied scientifically for microplastic contamination. This is despite the fact that karst aquifers supply drinking water to around 20% of the worlds population (in many places they are the only water resource available) and are highly vulnerable to rapid surface contamination from unlikely sources due to their highly complex geometries. Caves also hold a unique place in the geoheritage in the regions where they exist, stimulating tourism and economic development in many areas. The EU Water Framework Directive states that not only is groundwater an important source of drinking, irrigation and cooling water, but also its preservation is key to maintenance of surface ecosystems. 
+
+In term of groundwater source protection, if a sinkhole becomes polluted on the surface (e.g. by fly tipping or by ingress of agricultural waste products) pollution of the underlying karst aquifer is much more likely
+
+An academic but very readable summary of the state of play in karst research can be found [here](https://sp.lyellcollection.org/content/466/1/1). 
+
+![karst-concept](https://agupubs.onlinelibrary.wiley.com/cms/asset/29d84d51-c2b0-4303-8945-51197bc9a298/rog20030-fig-0004-m.jpg)
+*A conceptual model of the karst environment, from [Hartmann et al., 2014](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2013RG000443).*
+
+The entrances of caves and surface karst depressions (dolines) are often convenient dumping grounds for all kinds of waste and pollutants in rural communities where there may not be regular refuse collection and the impacts of such pollution may not be well understood. Cavers are generally extremely conscious of the effect our presence has upon the environment, and we try to minimise this as much as possible.
+
+
+
+Slides from a talk given by some croatian cavers can be found [here](https://sednet.org/wp-content/uploads/2019/05/N.-Cukrov-ppt.pdf).
+
+Specific questions that I think a basic study of microplastics in the cave environment should aim to answer are:
+
+- to what degree are microplastics present in the cave environment, and how abundant are they at different scales?
+
+- what are the sources of microplastic contamination in the cave environment, what kinds of microplastics are present, and how do these sources change depending on the specifics of the site being studied?
+
+- how are microplastics dispersed through particular cave sites, and what can we say about the reasons for any patterns in dispersion that exist (for example, aquifer geometry or the nature of recharge to the cave system)?
+
+- to what degree is the epikarst able to filter microplastic from dripwaters and in what way does the presence of microplastics affect the biological and chemical functioning of the epikarst?
+
+- do cave microplastics harbor pathogens and pollutants?
+
+- have cave biota been affected by microplastics, and if so how?
+
+The thought of this great shame, brought about in the 20th century, lingering and smothering future generations is not one most people are happy to countenance, so understandably they want to do something about it.
