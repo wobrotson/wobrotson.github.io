@@ -1,24 +1,46 @@
 ---
 layout: post
-title:  'Langcliffe Pot: tangible unknowns, sublime dreams'
+title:  'Trans-dales caving: dreams of anothernother Pooh'
 ---
 
 If I had to sum up in one word what drives and inspires me most in my short, overall insignificant blip of existence, it would be "the unknown". I love learning and discovering probably above all else. However, as Newton (and actually, as I discovered, [Archimedes](https://www.britannica.com/topic/Archimedes-Lost-Method-1084593)) discovered, there are limits. There are some things I would rather not contemplate. "Can the universe even be called big if it is infinite?" I am scared shitless by thoughts like this, probably because my brain starts melting thinking of the journey through the mantle to the Earth's molten interior. The philosophical implications of anything so unquestionably limitless are intangible to me. My lack of ability to ponder such abstractions was probably why I spent much more of my undergraduate degree going caving than going to lectures about solid earth geophysics. It was during one of these days, when I should have been taking notes on the Post-Perovskite Phase Transition at the D-double prime region or Large Low-Shear Velocity Provinces, that my friend George and I first paid a visit to Langcliffe Pot. 
 
-<BIT ABOUT DREAMS/>
+The Yorkshire Dales has always held a very special place in my mind. I have spent a lot of time roaming above and beneath those hills, and I can vividly remember many things about these times that I don't remember at all about other places. The relief at the smell of the fresh earth, wet and full of life, that overwhelms you during the last few metres of cave passage before exiting to the surface; the merciless, drenching power of water plunging down as if forever; the cut of strong westerlies and the bite of the frozen water on your face as you struggle over featureless surfaces towards new prospects below; time well spent with great friends from many walks of life. During my time at university, these are the opportunities I am most grateful for having. Early in my first year of university caving, I borrowed a great book from Ian Peachey, called 'Adventures of Another Pooh'. It was a collection of tales by a fellow Leeds caver from the 70s, Dave Yeandle, about his formative years caving with ULSA in the Dales and beyond. The spirit of this book really captured my 
 
-*don't know what to do about the next paragraph yet*
+I've been fortunate to have explored many of the cave systems etched out within the Great Scar Limestone. From Easegill in the west to Goyden of Nidderdale just west of Harrogate, they all have their individual merits and quirks. Easegill is the playground of the Dales, with always a new place to visit and familiar passages to re-examine as you might re-read a well-loved book, and a great community of caving surrounding it at Bull Pot Farm. It remains my favourite place to introduce people to caving. [County Pot](https://ukcaving.com/board/index.php?topic=22640.0) and the [Easegill Upper Traverse](https://ukcaving.com/board/index.php?topic=24776.0) offer very accessible adventure and discovery are to be had here by anyone curious enough to pass through. The more testing southern section of Easegill in Pippikin Pot gives a hint of what the majority of caves in the eastern Yorkshire Dales are like (wet, a bit knarly), but on the whole the caves of the Three Counties system are true gems. There is something to do whatever the weather, and much remains to be understood about the origins and speleogenesis of these caves and likely many major discoveries still to be made. 
 
-Caving is a niche activity. Those caves which are difficult or dangerous to venture into particularly hold little draw for pretty much everybody. Most people associate such a journey with mental and physical discomfort, a struggle to be endured rather than a memory treasured forever. However, for me, the more remote and untravelled a cave is, the greater the need I feel to see for myself what might make it so. Such journeys to the backwaters of our underground world are often spoken of strongly. 
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UyGxRuByV1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+*An excellent video of caving in Pippikin Pot filmed only a few years after it had been discovered in 1970. The blasting of Mistral Hole provides easier access now; in those days an involved rescue was though to be impossible.*
+
+Then comes Kingsdale, truly a monarch of Yorkshire, with testpieces like [Broken Finger Pot](https://ukcaving.com/board/index.php?topic=21583.0) a stone's throw from historical landmarks like Philosophers Crawl (where the breakthrough to the Kingsdale Master Cave was made) and Master Cave downstream sump (dived to Keld Head in 1979, a feat dubbed the 'Underground Eiger' - see the film of the same name [here](https://www.youtube.com/watch?v=nbkA8KA81SM)). This wealth of inspiring underground adventures is largely testament to the incredible perseverance (and fortune) of the jammiest bastards in cavings history, the Brook Brothers. I've had my share of 'epics' and misadventures here too: memories of silly, hungover thrashing through the [Rowten sumps](https://ukcaving.com/board/index.php?topic=21964.0) with a failing light and a long night early on in my Dales caving career spent shivering in King Pot spring to mind. I'd still like to attempt the 'Kingsdale Pull-through Marathon' of doing Swinsto, Simpsons, Rowten, Heron and King Pots all in one day, although the time I conceived of this idea was just before I got stuck in Lost John's after pulling through down Monastery instead of Centipede: perhaps some kind of subliminal attempt at dissuasion...
+
+I'm going to skip over Ingleborough, arguably the most well-known fell in the Dales and home to the best-known cave in Yorkshire, Gaping Gill. Although I've done some good trips here it really doesn't appeal to me in the same way as the caves either side of it, though Hensler's Master Cave and Far Country are good fun to run around in. There are some interesting gaps in the trans-dales cave knowledge here, for example at Newvby Moss Pot. I've visited this twice, and it looks promising, 
+
+Penyghent and Fountains Fell have been the scene of many of my fondest memories from Dales caving. The summit of Penyghent in particular has fantastic character and it's topography really captivates me. Its fantastic position, bridging the more desolate and wild lands of Wharfedale and Littondale to the east with the rather more civilised and tamed fells to the west that are home to most of the better-known caves in the Yorkshire Dales, lends it a certain stateliness and regality, like a sphinx guarding entry to the elusive network of caverns that must exist below. I've visited Penyghent Pot almost 10 times and I still really feel like I've barely got to know the place, having only ventured into the Extensions once and never to the Living Dead passages. the mystery of the Hunt Pot Inlet ceasing to flow in the 1980s Two groups of cavers are broadly responsible for the most recent discoveries: the 'Thursday Night Team' from the Northern Pennine Club, and the ULSA cavers of the late 1980s. Their commitment and passion for pushing nasty little shitholes, in the hope they would eventually find some passage that they could perhaps stand up in, was quite incredible.
+
+<figure>
+    <figcaption>Audio interview with Andy Tharratt about discovery of the Living Dead Extensions in Penyghent Pot.</figcaption>
+    <audio
+        controls
+        src="http://caving-library.org.uk/audio/audiofiles/AndyTharatt-1.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+Penyghent Gill is an odd place but has a lot of character, bearing the hallmarks of late fluvial incision rather than glacial erosion as can be seen in its neighbouring dales, Ribblesdale and Littondale. Often in these types of cave, you get strange little hints of something grander before an unexpected end, [Swan Dike Pot](https://ukcaving.com/board/index.php?topic=21246.0) being a good example. 
+
+However, I 
 
 "A trip to the far reaches is one of the most serious undertakings in British Caving."
 
 "One of Yorkshire's truly great caving expeditions."
 
-Even the name, 'Black Keld Master Cave', seems to evoke untapped possibilities of another world below, like a Jules Verne novel but within the realms of geological possibility. 
+Even the name of the promised prize, 'Black Keld Master Cave', seems to evoke untapped possibilities of another world below, like a Jules Verne novel but within the realms of geological possibility. 
 
 It was a sunny afternoon and the valley of Wharfedale was dappled in golden rays. This took some of the edge off the sense of foreboding. Wharfedale is a truly special place, at once inspiring and beautiful but also clearly of a higher power that holds no emotional attachment to the wills of those who seek pleasure in its surroundings. I think that this feeling is definitely enhanced by the tragic events of the past, but the way that Kilnsey crag looms over the western side of the valley appears to me like the mouth of some great beast, of which the mountain is a part, waiting to swallow me up at the slightest false step.
 
 The top of Langcliffe Moor is one of the few places in the Dales where one feels truly remote: no buildings or are visible from the cave entrance, and there is no sound of traffic. With the whole fell to yourself, it is pleasantly easy to forget that you arrived here in a car on a road after leaving your house in the city. All of that, the clutter, the grey, the planning and precision makes way for fragments from times long past.
 
-Funnily enough, 
+ 
