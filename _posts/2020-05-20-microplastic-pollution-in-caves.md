@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Microplastic pollution in caves: are old cave passages an environment untainted by microplastics'
+title:  'Microplastic pollution in caves: are old cave passages untainted by microplastics?'
 ---
 In 1907, the first synthetic plastic, *Bakelite*, was produced. That same year, Otto Krummel published what might be the first stand-alone map of the Marianas Trench, the deepest point on Earth's surface. When plastic started to be produced on industrial scales in the 1950s, the first ascent of Everest was made. A decade later on January 23rd 1960, Jacques Picard and Don Walsh made a [historic first visit](http://www.deepseachallenge.com/the-expedition/1960-dive/) to the black depths of Marianas. In that decade, global plastic production had reached 47 million tonnes in total (8 million in the year 1960). Over 60 years have now passed since then, and the ocean waters into which Picard and Walsh descended have been unquestionably altered by the now nearly 8 billion tonnes of plastic that preside on our planet today.
 
