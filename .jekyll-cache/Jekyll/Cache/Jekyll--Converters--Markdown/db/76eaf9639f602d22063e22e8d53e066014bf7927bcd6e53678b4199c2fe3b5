@@ -1,4 +1,4 @@
-I"�2<p>It’s been a while since I last wrote anything on here. Lots of other things have been distracting me (I’ll write more about these soon!), but I have had a bit of time to think about microplastics in caves a bit more since my <a href="https://wobrotson.github.io/microplastic-pollution-in-caves/">blog post</a> introducing the concept in May. Hopefully that summed up why we need to do some work to understand the problem of microplastic pollution and why the cave environment would be an interesting area of future study. Some questions I suggested could be answered by surveying microplastic prevalence in caves were:</p>
+I"�5<p>It’s been a while since I last wrote anything on here. Lots of other things have been distracting me (I’ll write more about these soon!), but I have had a bit of time to think about microplastics in caves a bit more since my <a href="https://wobrotson.github.io/microplastic-pollution-in-caves/">blog post</a> introducing the concept in May. Hopefully that summed up why we need to do some work to understand the problem of microplastic pollution and why the cave environment would be an interesting area of future study. Some questions I suggested could be answered by surveying microplastic prevalence in caves were:</p>
 
 <ul>
   <li>
@@ -56,8 +56,8 @@
 <p>So, we need a simple and robust way of collecting and processing cave sediments to understand their microplastic content. After a bit of looking around, I found a really excellent-looking device named the ‘Sediment-Microplastic Isolation (SMI) unit’, developed by researchers at the Plymouth Marine Centre as described in this <a href="https://www.sciencedirect.com/science/article/pii/S0269749117310576">paper</a>.</p>
 
 <p><center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-fx1.jpg" alt="SMI1" width="600" /></center>
-<p><center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt="SMI2" width="600" /></center></p>
-    <i>The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.</i></p>
+<center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt="SMI2" width="600" /></center></p>
+<p><em>The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.</em></p>
 
 <p>The SMI unit is constructed from 63 mm diameter PVC pipe with a PVC ball valve. The unit works by using the density separation principle of the initial microplastic studies to float the microplastics in a high-density solution. The microplastics rise to the top of the fluid column and the sediments settle at the base. A ball valve in the centre of the device then seals off the sediments and the upper section (the headspace). Fluids in the headspace are then filtered, placed in a sealed petri dish and analysed under the microscope later on.</p>
 
@@ -95,5 +95,6 @@
 
 <p>I think the approach I have outlined will allow the project to be accessible to any caver (or citizen scientist), is simple and relatively cheap, and allows anyone involved to operate reasonably autonomously. I am planning to write a grant application to the <a href="www.bcra.org.uk">British Cave Research Association</a> to obtain funding for material and possibly transport costs via their Cave Science and Technology Research Fund (CSTRF). If anyone would like to collaborate with me on this then please drop me an <a href="emailto:robert.watson@ucd.ie">email</a>. Likewise, if anyone sees any potential flaws or issues with my ideas or wishes to contribute in any way I would certainly appreciate your input. Psyche!</p>
 
-<p><img src="https://ulsa.org.uk/wp-content/uploads/2019/12/IMG_5758.jpg" alt="cave-pic" /></p>
+<p><center><a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49655750936/in/dateposted-public/" title="14542488_10153837992206512_8725253003009581036_o"><img src="https://live.staticflickr.com/65535/49655750936_7a43620169_z.jpg" width="640" height="480" alt="14542488_10153837992206512_8725253003009581036_o" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center></p>
+<p><i>Some very muddy diggers (including me, centre) in a periodically active sump at Telegraph Aven, Goyden Pot, Nidderdale, 2017. We’ve probably left a lot of microplastics in here ourselves, but were there any here before we began digging out the sump? And can any microplastics transported there by water be distinguished from microplastics brought in by cavers? Let’s find out… Photo: Nick Bairstow.</i></p>
 :ET

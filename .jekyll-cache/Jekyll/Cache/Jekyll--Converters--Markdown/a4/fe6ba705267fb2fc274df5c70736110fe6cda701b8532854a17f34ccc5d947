@@ -1,4 +1,4 @@
-I"�4<p>It’s been a while since I last wrote anything on here. Lots of other things have been distracting me (I’ll write more about these soon!), but I have had a bit of time to think about microplastics in caves a bit more since my <a href="https://wobrotson.github.io/microplastic-pollution-in-caves/">blog post</a> introducing the concept in May. Hopefully that summed up why we need to do some work to understand the problem of microplastic pollution and why the cave environment would be an interesting area of future study. Some questions I suggested could be answered by surveying microplastic prevalence in caves were:</p>
+I"j6<p>It’s been a while since I last wrote anything on here. Lots of other things have been distracting me (I’ll write more about these soon!), but I have had a bit of time to think about microplastics in caves a bit more since my <a href="https://wobrotson.github.io/microplastic-pollution-in-caves/">blog post</a> introducing the concept in May. Hopefully that summed up why we need to do some work to understand the problem of microplastic pollution and why the cave environment would be an interesting area of future study. Some questions I suggested could be answered by surveying microplastic prevalence in caves were:</p>
 
 <ul>
   <li>
@@ -56,36 +56,46 @@
 <p>So, we need a simple and robust way of collecting and processing cave sediments to understand their microplastic content. After a bit of looking around, I found a really excellent-looking device named the ‘Sediment-Microplastic Isolation (SMI) unit’, developed by researchers at the Plymouth Marine Centre as described in this <a href="https://www.sciencedirect.com/science/article/pii/S0269749117310576">paper</a>.</p>
 
 <p><center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-fx1.jpg" alt="SMI1" width="600" /></center>
-<p><center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt="SMI2" width="600" /></center></p>
-    <i>The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.</i>
-    
-The SMI unit is constructed from 63 mm diameter PVC pipe with a PVC ball valve. The unit works by using the density separation principle of the initial microplastic studies to float the microplastics in a high-density solution. The microplastics rise to the top of the fluid column and the sediments settle at the base. A ball valve in the centre of the device then seals off the sediments and the upper section (the headspace). Fluids in the headspace are then filtered, placed in a sealed petri dish and analysed under the microscope later on. 
+<center><img src="https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt="SMI2" width="600" /></center></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;p&gt;&lt;i&gt;The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.&lt;/i&gt;&lt;/p&gt;
+</code></pre></div></div>
 
-The device requires sediment sample sizes of around 30 - 50 g (not much sediment at all). The overall cost per unit was £50 - £60, with the cost of the salt to produce the supernatant varying depending on the supernatant being used (around £12/kg for sodium chloride and £35/kg for zinc chloride). The study found that zinc chloride solutions with a density of 1.5 g/cm3 were the most effective at separating a full range of microplastics from sediments of a range of grain sizes (at high solution densities, fine sediment particles remained in solution as well as the microplastics).
+<p>The SMI unit is constructed from 63 mm diameter PVC pipe with a PVC ball valve. The unit works by using the density separation principle of the initial microplastic studies to float the microplastics in a high-density solution. The microplastics rise to the top of the fluid column and the sediments settle at the base. A ball valve in the centre of the device then seals off the sediments and the upper section (the headspace). Fluids in the headspace are then filtered, placed in a sealed petri dish and analysed under the microscope later on.</p>
 
-Now we have a simple device that could be cheaply constructed in-house by the project, creating units on basis of need (start with a few, make more as the project grows). But where would be best to process the samples? Even with the light, durable design of the SMI unit, the necessity to bring along supernatant solution and also to clean the device between samples and before each use with purified water to minimise contamination means that on-site processing is likely impractical. It makes more sense to remove the samples from the cave environment in metal containers and then process them later on in a lab. 
+<p>The device requires sediment sample sizes of around 30 - 50 g (not much sediment at all). The overall cost per unit was £50 - £60, with the cost of the salt to produce the supernatant varying depending on the supernatant being used (around £12/kg for sodium chloride and £35/kg for zinc chloride). The study found that zinc chloride solutions with a density of 1.5 g/cm3 were the most effective at separating a full range of microplastics from sediments of a range of grain sizes (at high solution densities, fine sediment particles remained in solution as well as the microplastics).</p>
 
-If this were the case, then we could have a gathering of anyone who had collected samples at a willing venue where the samples could be processed and analysed on the day by attendees. Only very basic lab skills (preparing the supernatant, adding to the SMI unit, stirring and filtering then analysing under a microscope) would be needed and very minimal equipment: this could even be done in a caving hut (when they eventually open again!). If a large enough sediment sample was taken from each location (say 0.5 kg) then several repeat analyses could be done by different people to get a representative measure of microplastic abundance and type. An amount of sample could also be saved for different tests later on. This use of resources would maximise scientific output and involve more people, thus broadening the reach of the project.
+<p>Now we have a simple device that could be cheaply constructed in-house by the project, creating units on basis of need (start with a few, make more as the project grows). But where would be best to process the samples? Even with the light, durable design of the SMI unit, the necessity to bring along supernatant solution and also to clean the device between samples and before each use with purified water to minimise contamination means that on-site processing is likely impractical. It makes more sense to remove the samples from the cave environment in metal containers and then process them later on in a lab.</p>
 
-In summary, I think the basic steps for the project would be as follows:
+<p>If this were the case, then we could have a gathering of anyone who had collected samples at a willing venue where the samples could be processed and analysed on the day by attendees. Only very basic lab skills (preparing the supernatant, adding to the SMI unit, stirring and filtering then analysing under a microscope) would be needed and very minimal equipment: this could even be done in a caving hut (when they eventually open again!). If a large enough sediment sample was taken from each location (say 0.5 kg) then several repeat analyses could be done by different people to get a representative measure of microplastic abundance and type. An amount of sample could also be saved for different tests later on. This use of resources would maximise scientific output and involve more people, thus broadening the reach of the project.</p>
 
-- Purchase raw materials (metal containers with seal to transport microplastics from cave, trowel, a few kilos of salt, some plastic piping and ball valves, micropore filters, petri dishes).
+<p>In summary, I think the basic steps for the project would be as follows:</p>
 
-- Go into some caves (determined by where those interested in contributing are based) and take some sediment samples. These can be stored at home by the samplers until a time when processing can occur).
+<ul>
+  <li>
+    <p>Purchase raw materials (metal containers with seal to transport microplastics from cave, trowel, a few kilos of salt, some plastic piping and ball valves, micropore filters, petri dishes).</p>
+  </li>
+  <li>
+    <p>Go into some caves (determined by where those interested in contributing are based) and take some sediment samples. These can be stored at home by the samplers until a time when processing can occur).</p>
+  </li>
+  <li>
+    <p>Construct some SMI units.</p>
+  </li>
+  <li>
+    <p>Once enough samples and SMI units are available, arrange a time and venue for sample processing. Process and analyse samples for microplastic content and type.</p>
+  </li>
+  <li>
+    <p>Interpret and write up results.</p>
+  </li>
+  <li>
+    <p>Publish results.</p>
+  </li>
+  <li>
+    <p>Repeat!</p>
+  </li>
+</ul>
 
-- Construct some SMI units.
-
-- Once enough samples and SMI units are available, arrange a time and venue for sample processing. Process and analyse samples for microplastic content and type. 
-
-- Interpret and write up results.
-
-- Publish results.
-
-- Repeat!
-
-I think the approach I have outlined will allow the project to be accessible to any caver (or citizen scientist), is simple and relatively cheap, and allows anyone involved to operate reasonably autonomously. I am planning to write a grant application to the [British Cave Research Association](www.bcra.org.uk) to obtain funding for material and possibly transport costs via their Cave Science and Technology Research Fund (CSTRF). If anyone would like to collaborate with me on this then please drop me an [email](emailto:robert.watson@ucd.ie). Likewise, if anyone sees any potential flaws or issues with my ideas or wishes to contribute in any way I would certainly appreciate your input. Psyche!
+<p>I think the approach I have outlined will allow the project to be accessible to any caver (or citizen scientist), is simple and relatively cheap, and allows anyone involved to operate reasonably autonomously. I am planning to write a grant application to the <a href="www.bcra.org.uk">British Cave Research Association</a> to obtain funding for material and possibly transport costs via their Cave Science and Technology Research Fund (CSTRF). If anyone would like to collaborate with me on this then please drop me an <a href="emailto:robert.watson@ucd.ie">email</a>. Likewise, if anyone sees any potential flaws or issues with my ideas or wishes to contribute in any way I would certainly appreciate your input. Psyche!</p>
 
 <p><center><a data-flickr-embed="true" href="https://www.flickr.com/photos/wobrotson/49655750936/in/dateposted-public/" title="14542488_10153837992206512_8725253003009581036_o"><img src="https://live.staticflickr.com/65535/49655750936_7a43620169_z.jpg" width="640" height="480" alt="14542488_10153837992206512_8725253003009581036_o" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center></p>
-*Some very muddy diggers (including me) in a periodically active sump at Telegraph Aven, Goyden Pot, Nidderdale, 2017. We've probably left a lot of microplastics in here ourselves, but were there any here before we began digging out the sump? And can any microplastics transported there by water be distinguished from microplastics brought in by cavers? Let's find out... Photo: Nick Bairstow.*
-</p>
+<p><i>Some very muddy diggers (including me, centre) in a periodically active sump at Telegraph Aven, Goyden Pot, Nidderdale, 2017. We’ve probably left a lot of microplastics in here ourselves, but were there any here before we began digging out the sump? And can any microplastics transported there by water be distinguished from microplastics brought in by cavers? Let’s find out… Photo: Nick Bairstow.</i></p>
 :ET

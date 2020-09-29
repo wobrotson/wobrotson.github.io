@@ -45,8 +45,8 @@ By contrast, water is usually sampled for microplastics by using some kind of ne
 So, we need a simple and robust way of collecting and processing cave sediments to understand their microplastic content. After a bit of looking around, I found a really excellent-looking device named the 'Sediment-Microplastic Isolation (SMI) unit', developed by researchers at the Plymouth Marine Centre as described in this [paper](https://www.sciencedirect.com/science/article/pii/S0269749117310576).
 
 <p><center><img src = "https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-fx1.jpg" alt = "SMI1" width = "600" /></center>
-<p><center><img src = "https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt = "SMI2" width = "600" /></center></p>
-    <i>The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.</i>
+<center><img src = "https://ars.els-cdn.com/content/image/1-s2.0-S0269749117310576-gr1.jpg" alt = "SMI2" width = "600" /></center></p>
+*The Sediment-Microplastic Isolation (SMI) unit. On stirring, sediment sinks to the base of the device, below the ball valve; microplastics and organic residue float to the top of the fluid column (in the headspace). The foil hood minimises contamination.*
     
 The SMI unit is constructed from 63 mm diameter PVC pipe with a PVC ball valve. The unit works by using the density separation principle of the initial microplastic studies to float the microplastics in a high-density solution. The microplastics rise to the top of the fluid column and the sediments settle at the base. A ball valve in the centre of the device then seals off the sediments and the upper section (the headspace). Fluids in the headspace are then filtered, placed in a sealed petri dish and analysed under the microscope later on. 
 
